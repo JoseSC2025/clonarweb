@@ -6,7 +6,7 @@ from ramachandraw.utils import plot
 from io import BytesIO 
 
 st.title("Generador de Diagrama de Ramachandran")
-st.text("Autor: Jesús Alvarado-Huayhuaz")
+st.text("Autor: José Santa Cruz Delgado")
 
 st.sidebar.image("ramachandran_logo.png", caption="inRamachandran")
 
